@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gianni St. Clair
+- 👀 I’m interested in Python Devloper/Software Engineer job opportunities.
+- 🌱 I’m currently learning 
+- 📫 How to reach me: gstclair19@gmail.com
