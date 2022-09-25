@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Gianni St. Clair
-- 👀 I’m interested in Python Devloper/Software Engineer job opportunities.
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Python Devloper/Software Engineer job opportunities
+- 🌱 I’m currently working on perfecting my Python, web developement, and data science skills
 - 📫 How to reach me: gstclair19@gmail.com
